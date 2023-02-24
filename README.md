@@ -3,7 +3,7 @@
 
 
 
-欢迎大家发起PR，对笔记进行修改、补充和完善。
+欢迎大家发起PR，对笔记进行修改、补充和完善(如果能完善每年的考试内容就更好了哈哈哈哈哈)。
 
 笔记中内容参考了[SJoshua/material.SCUTSE](https://github.com/SJoshua/material.SCUTSE)中IT项目管理的部分
 
