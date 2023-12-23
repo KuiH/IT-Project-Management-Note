@@ -11,7 +11,7 @@
 
 笔记中内容参考了[SJoshua/material.SCUTSE](https://github.com/SJoshua/material.SCUTSE)中IT项目管理的部分
 
-思维导图里有所有名词的解释，以便概念题复习（不保证全覆盖）
+思维导图里有名词的解释，以便概念题复习（不保证全覆盖）
 
 
 
@@ -34,4 +34,4 @@
 
 @[zone-1614](https://github.com/zone-1614)提供了部分试卷内容
 
-@[acang425](https://github.com/acang425)提供了部分笔记、试卷内容和名词解释思维导图
+@[acang425](https://github.com/acang425)提供了部分笔记、试卷内容和思维导图
